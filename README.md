@@ -4,7 +4,7 @@
 </p>
 
 <!-- 소개 문구 -->
-<h3 align="center">It's me! 👋</h3>
+<h3 align="center">👋It's me!👋</h3>
 
 <!-- Skills 섹션 -->
 <h3 align="center">✨ Skills</h3>
