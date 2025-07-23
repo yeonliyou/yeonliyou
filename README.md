@@ -1,6 +1,6 @@
 <!-- 프로필 배너 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=250&text=yeonliyou&fontSize=80&color=0:8871e5,100:b678c4&animation=twinkling" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=250&text=yeonliyou&fontSize=80&color=0:8871e5,100:b678c4&textColor=ffffff&animation=twinkling" alt="header"/>
 </p>
 
 <!-- 소개 문구 -->
