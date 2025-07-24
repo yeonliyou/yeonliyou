@@ -1,5 +1,6 @@
 <!-- 프로필 배너 -->
 <p align="center">
+  <img width="718" height="216" alt="image" src="https://github.com/user-attachments/assets/691bce93-7ec9-4ea4-b84c-adc6ddc94bdd" />
   <img src="https://capsule-render.vercel.app/api?type=venom&height=250&text=yeonliyou&fontSize=80&color=0:8871e5,100:b678c4&textColor=ffffff&animation=twinkling" alt="header"/>
 </p>
 
