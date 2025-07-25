@@ -30,40 +30,14 @@
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
   <a href="https://github.com/yeonliyou/github-readme-stats">
     <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeonliyou&layout=donut&theme=aura" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeonliyou&layout=donut&theme=omni" 
       alt="Top Langs" 
       style="height: 200px; border: 2px solid white; border-radius: 10px;"
     />
   </a>
     <img 
-      src="https://github-readme-stats.vercel.app/api?username=yeonliyou&show_icons=true&theme=aura" 
+      src="https://github-readme-stats.vercel.app/api?username=yeonliyou&show_icons=true&theme=omni" 
       alt="GitHub Stats" 
       style="height: 200px; border: 2px solid white; border-radius: 10px;"
     />
-</div>
-
-<h3 align="center">🕹️ Card</h3>
-
-<div align="center" style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
-  <!-- Most Used Languages Card -->
-  <div style="text-align: center;">
-    <div style="color: #f9a8d4; font-weight: bold; font-size: 16px; margin-bottom: 5px;">Most Used Languages</div>
-    <a href="https://github.com/yeonliyou/github-readme-stats">
-      <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeonliyou&layout=donut&theme=aura" 
-        alt="Top Langs" 
-        style="height: 200px; border: 2px solid white; border-radius: 10px;"
-      />
-    </a>
-  </div>
-
-  <!-- GitHub Stats Card -->
-  <div style="text-align: center;">
-    <div style="color: #f9a8d4; font-weight: bold; font-size: 16px; margin-bottom: 5px;">yeonliyou's GitHub Stats</div>
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=yeonliyou&show_icons=true&theme=aura" 
-      alt="GitHub Stats" 
-      style="height: 200px; border: 2px solid white; border-radius: 10px;"
-    />
-  </div>
 </div>
