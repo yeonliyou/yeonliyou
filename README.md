@@ -1,7 +1,9 @@
 <!-- 프로필 배너 -->
+<!-- Custom Blur Style Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=yeonliyou&strokeWidth=2&section=footer&reversal=true&fontAlign=50&stroke=E0E0E0&fontSize=55&textBg=false" alt="yeonliyou banner"/>
+  <img src="https://raw.githubusercontent.com/yeonliyou/assets/main/yeonliyou_blur_banner.png" alt="yeonliyou banner"/>
 </p>
+
 
 
 
