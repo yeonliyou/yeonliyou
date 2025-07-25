@@ -38,3 +38,20 @@
   </a>
   <img src="https://github-readme-stats.vercel.app/api?username=yeonliyou&show_icons=true&theme=aura" alt="GitHub Stats" style="height: 200px;"/>
 </div>
+
+<h3 align="center">🕹️ Stats Card</h3>
+
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <a href="https://github.com/yeonliyou/github-readme-stats">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeonliyou&layout=donut&theme=github_dark" 
+      alt="Top Langs" 
+      style="height: 200px; border: 2px solid white; border-radius: 10px;"
+    />
+  </a>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=yeonliyou&show_icons=true&theme=github_dark" 
+    alt="GitHub Stats" 
+    style="height: 200px; border: 2px solid white; border-radius: 10px;"
+  />
+</div>
