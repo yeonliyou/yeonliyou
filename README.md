@@ -25,7 +25,16 @@
 
 <p align="center">
   <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeonliyou&layout=compact&theme=aurora&hide=css,scss&cache_seconds=86400" alt="Top Langs"/>
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeonliyou&layout=donut)](https://github.com/yeonliyou/github-readme-stats)
     <img src="https://github-readme-stats.vercel.app/api?username=yeonliyou&show_icons=true&theme=aura" alt="GitHub Stats"/>
   </div>
 </p>
+
+<h3 align="center">🕹️ Stats Card</h3>
+
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <a href="https://github.com/yeonliyou/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeonliyou&layout=donut&theme=aurora" alt="Top Langs"/>
+  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=yeonliyou&show_icons=true&theme=aurora" alt="GitHub Stats"/>
+</div>
