@@ -18,10 +18,10 @@
 <!-- Skills 섹션 -->
 <h3 align="center">✨ Skills</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-F9A8D4?style=for-the-badge&logo=python&logoColor=white"/>       <!-- 연핑크 (채도 중간) -->
-  <img src="https://img.shields.io/badge/R-EC4899?style=for-the-badge&logo=r&logoColor=white"/>               <!-- 진핑크 (채도 높음) -->
-  <img src="https://img.shields.io/badge/MySQL-FBCFE8?style=for-the-badge&logo=mysql&logoColor=white"/>       <!-- 매우 연한 핑크 -->
-  <img src="https://img.shields.io/badge/Neo4j-DB2777?style=for-the-badge&logo=neo4j&logoColor=white"/>       <!-- 자주에 가까운 핑크 -->
+  <img src="https://img.shields.io/badge/Python-F9A8D4?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-EC4899?style=for-the-badge&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-FBCFE8?style=for-the-badge&logo=mysql&logoColor=black"/> <!-- 아이콘 강조 -->
+  <img src="https://img.shields.io/badge/Neo4j-DB2777?style=for-the-badge&logo=neo4j&logoColor=white"/>
 </p>
 
 <!-- Using 섹션 -->
