@@ -25,3 +25,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeonliyou" alt="Top Langs"/>
 </p>
+
+<h3 align="center">🕹️ Stats Card</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeonliyou&layout=compact&theme=aurora&hide=css,scss&cache_seconds=86400&show_icons=true" alt="Top Langs"/>
+</p>
