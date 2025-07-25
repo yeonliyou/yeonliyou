@@ -35,9 +35,9 @@
       style="height: 200px; border: 2px solid white; border-radius: 10px;"
     />
   </a>
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=yeonliyou&show_icons=true&theme=aura" 
-    alt="GitHub Stats" 
-    style="height: 200px; border: 2px solid white; border-radius: 10px;"
-  />
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=yeonliyou&show_icons=true&theme=aura" 
+      alt="GitHub Stats" 
+      style="height: 200px; border: 2px solid white; border-radius: 10px;"
+    />
 </div>
