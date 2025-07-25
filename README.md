@@ -1,6 +1,9 @@
 <!-- 프로필 배너 -->
 <p align="center">
-  <img width="737" height="206" alt="image" src="https://github.com/user-attachments/assets/e381c0fa-37e2-4397-8e90-d690c97328f3" />
+  <img 
+    src="https://capsule-render.vercel.app/api?type=venom&height=200&text=yeonliyou.&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4" 
+    alt="header"
+  />
 </p>
 
 <!-- 소개 문구 -->
