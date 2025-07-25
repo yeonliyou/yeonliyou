@@ -1,7 +1,7 @@
 <!-- 프로필 배너 -->
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=yeonliyou&height=160&fontSize=60&desc=I'm%20growing&descAlignY=40&descAlign=30" 
+    src="https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=yeonliyou&height=160&fontSize=60" 
     alt="transparent header"
   />
 </p>
