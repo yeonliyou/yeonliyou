@@ -30,11 +30,11 @@
   </div>
 </p>
 
-<h3 align="center">🕹️ Stats Card</h3>
+<h3 align="center">🕹️ Cards</h3>
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
   <a href="https://github.com/yeonliyou/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeonliyou&layout=donut&theme=aurora" alt="Top Langs" style="height: 200px;"/>
   </a>
-  <img src="https://github-readme-stats.vercel.app/api?username=yeonliyou&show_icons=true&theme=aurora" alt="GitHub Stats" style="height: 200px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yeonliyou&show_icons=true&theme=aura" alt="GitHub Stats" style="height: 200px;"/>
 </div>
