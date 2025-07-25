@@ -21,36 +21,18 @@
   <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"/>
 </p>
 
-<h3 align="center">🕹️ Stats Card</h3>
-
-<p align="center">
-  <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeonliyou&layout=donut)](https://github.com/yeonliyou/github-readme-stats)
-    <img src="https://github-readme-stats.vercel.app/api?username=yeonliyou&show_icons=true&theme=aura" alt="GitHub Stats"/>
-  </div>
-</p>
-
-<h3 align="center">🕹️ Cards</h3>
-
-<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <a href="https://github.com/yeonliyou/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeonliyou&layout=donut&theme=aurora" alt="Top Langs" style="height: 200px;"/>
-  </a>
-  <img src="https://github-readme-stats.vercel.app/api?username=yeonliyou&show_icons=true&theme=aura" alt="GitHub Stats" style="height: 200px;"/>
-</div>
-
-<h3 align="center">🕹️ Stats Card</h3>
+<h3 align="center">🕹️ Card</h3>
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
   <a href="https://github.com/yeonliyou/github-readme-stats">
     <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeonliyou&layout=donut&theme=github_dark" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeonliyou&layout=donut&theme=aura" 
       alt="Top Langs" 
       style="height: 200px; border: 2px solid white; border-radius: 10px;"
     />
   </a>
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=yeonliyou&show_icons=true&theme=github_dark" 
+    src="https://github-readme-stats.vercel.app/api?username=yeonliyou&show_icons=true&theme=aura" 
     alt="GitHub Stats" 
     style="height: 200px; border: 2px solid white; border-radius: 10px;"
   />
