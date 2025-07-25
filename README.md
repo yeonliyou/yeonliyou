@@ -1,18 +1,17 @@
 <!-- 프로필 배너 -->
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=yeonliyou&height=160&fontSize=60" 
-    alt="transparent header"
-  />
-</p>
-
-<p align="center">
-  <img 
     src="https://capsule-render.vercel.app/api?type=blur&height=300&color=0:8b5cf6,100:a855f7&text=yeonliyou&fontColor=ffffff&stroke=f3e8ff&strokeWidth=1.8&section=footer&reversal=false&fontAlign=50&fontSize=55&textBg=false" 
     alt="blur banner"
   />
 </p>
 
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=blur&height=300&color=0:8b5cf6,100:a855f7&text=yeonliyou&fontColor=ffffff&stroke=f3e8ff&strokeWidth=1.8&section=footer&reversal=false&fontAlign=50&fontSize=55&textBg=false&font=Rounded" 
+    alt="blur banner"
+  />
+</p>
 
 
 
