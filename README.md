@@ -15,6 +15,15 @@
   <img src="https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white"/>
 </p>
 
+<!-- Skills 섹션 -->
+<h3 align="center">✨ Skills</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-F9A8D4?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-F9A8D4?style=for-the-badge&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-F9A8D4?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Neo4j-F9A8D4?style=for-the-badge&logo=neo4j&logoColor=white"/>
+</p>
+
 <!-- Using 섹션 -->
 <h3 align="center">💻 Using</h3>
 <p align="center">
