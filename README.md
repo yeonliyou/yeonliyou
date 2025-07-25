@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"/>
 </p>
 
-<h3 align="center">💻 Using</h3>
+<h3 align="center">🕹️ Stats Card</h3>
 <p align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeonliyou)](https://github.com/yeonliyou/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeonliyou" alt="Top Langs"/>
 </p>
