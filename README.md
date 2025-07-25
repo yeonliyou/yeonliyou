@@ -26,6 +26,6 @@
 <p align="center">
   <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeonliyou&layout=compact&theme=aurora&hide=css,scss&cache_seconds=86400" alt="Top Langs"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=yeonliyou&show_icons=true&theme=aurora" alt="GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=yeonliyou&show_icons=true&theme=aura" alt="GitHub Stats"/>
   </div>
 </p>
