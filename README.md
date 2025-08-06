@@ -6,6 +6,13 @@
 <!-- 소개 문구 -->
 <h3 align="center">👋It's me !</h1>
 
+<!-- 블로그 링크 -->
+<p align="center">
+  <a href="https://yeonliyou.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/My%20Blog-yeonliyou.github.io-ff69b4?style=for-the-badge&logo=githubpages&logoColor=white"/>
+  </a>
+</p>
+
 <!-- Skills 섹션 -->
 <h3 align="center">✨ Skills</h3>
 <p align="center">
