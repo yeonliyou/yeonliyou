@@ -45,6 +45,7 @@
       style="height: 200px; border: 2px solid white; border-radius: 10px;"
     />
     <img src="https://raw.githubusercontent.com/yeonliyou/yeonliyou/master/dist/metrics-6m.svg" width="420"/>
+    <img src="https://raw.githubusercontent.com/yeonliyou/yeonliyou/output/github-contribution-grid-snake.svg" width="420" />
 </div>
 
 ## 🐍 Snake & 🌱 3D Grass
