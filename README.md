@@ -48,7 +48,6 @@
     <img src="http://mazandi.herokuapp.com/api?handle=yeonliyou&theme=warm" />
     <img src="https://raw.githubusercontent.com/yeonliyou/yeonliyou/output/github-contribution-grid-snake-dark.svg" width="420" />
     <img src="https://raw.githubusercontent.com/yeonliyou/yeonliyou/output/github-contribution-grid-snake.svg" width="420" />
-    <img src="https://raw.githubusercontent.com/yeonliyou/yeonliyou/output/github-contribution-grid-snake.gif" width="420" />
 </div>
 
 
