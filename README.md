@@ -44,4 +44,13 @@
       alt="GitHub Stats" 
       style="height: 200px; border: 2px solid white; border-radius: 10px;"
     />
+  ## 🐍 Snake & 🌱 3D Grass
+
+  <!-- 3D 잔디 -->
+  <img src="https://raw.githubusercontent.com/yeonliyou/yeonliyou/master/dist/metrics-6m.svg" width="420">
+  
+  <!-- Snake 애니메이션 -->
+  <img src="https://raw.githubusercontent.com/yeonliyou/yeonliyou/output/github-contribution-grid-snake.svg" width="420" />
+  <img src="https://raw.githubusercontent.com/yeonliyou/yeonliyou/output/github-contribution-grid-snake-dark.svg" width="420" />
+  <img src="https://raw.githubusercontent.com/yeonliyou/yeonliyou/output/github-contribution-grid-snake.gif" width="420" />
 </div>
