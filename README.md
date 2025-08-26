@@ -31,24 +31,36 @@
 
 <h3 align="center">🕹️ Card</h3>
 
-<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+<!-- 1) Top Langs + GitHub Stats -->
+<div align="center" style="display:flex;justify-content:center;gap:10px;flex-wrap:wrap;margin-bottom:12px;">
   <a href="https://github.com/yeonliyou/github-readme-stats">
     <img 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeonliyou&layout=donut&theme=omni" 
-      alt="Top Langs" 
-      style="height: 200px; border: 2px solid white; border-radius: 10px;"
+      alt="Top Langs"
+      style="height:200px;border:2px solid white;border-radius:10px;"
     />
   </a>
+  <a href="https://github.com/yeonliyou/github-readme-stats">
     <img 
       src="https://github-readme-stats.vercel.app/api?username=yeonliyou&show_icons=true&theme=omni" 
-      alt="GitHub Stats" 
-      style="height: 200px; border: 2px solid white; border-radius: 10px;"
+      alt="GitHub Stats"
+      style="height:200px;border:2px solid white;border-radius:10px;"
     />
-    <img src="https://raw.githubusercontent.com/yeonliyou/yeonliyou/master/dist/metrics-6m.svg" width="420"/>
-    <img src="http://mazandi.herokuapp.com/api?handle=yeonliyou&theme=warm" />
-    <img src="https://raw.githubusercontent.com/yeonliyou/yeonliyou/output/github-contribution-grid-snake-dark.svg" width="420" />
-    <img src="https://raw.githubusercontent.com/yeonliyou/yeonliyou/output/github-contribution-grid-snake.svg" width="420" />
+  </a>
 </div>
+
+<!-- 2) 잔디 + 백준 티어 -->
+<div align="center" style="display:flex;justify-content:center;gap:10px;flex-wrap:wrap;margin-bottom:12px;">
+  <img src="https://raw.githubusercontent.com/yeonliyou/yeonliyou/master/dist/metrics-6m.svg" alt="metrics" width="420" />
+  <img src="http://mazandi.herokuapp.com/api?handle=yeonliyou&theme=warm" alt="baekjoon-tier" />
+</div>
+
+<!-- 3) 스네이크 다크 + 라이트 -->
+<div align="center" style="display:flex;justify-content:center;gap:10px;flex-wrap:wrap;">
+  <img src="https://raw.githubusercontent.com/yeonliyou/yeonliyou/output/github-contribution-grid-snake-dark.svg" alt="snake-dark" width="420" />
+  <img src="https://raw.githubusercontent.com/yeonliyou/yeonliyou/output/github-contribution-grid-snake.svg" alt="snake" width="420" />
+</div>
+
 
 
   
