@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"/>
 </p>
 
-<h3 align="center">🕹️ Card</h3>
+<h3 align="center">🕹️ Github card</h3>
 
 <!-- 1) Top Langs + GitHub Stats -->
 <div align="center" style="display:flex;justify-content:center;gap:10px;flex-wrap:wrap;margin-bottom:12px;">
