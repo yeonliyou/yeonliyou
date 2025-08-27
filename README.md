@@ -49,7 +49,7 @@
   </a>
 </div>
 
-<h3 align="center">🌱 Grass & 🐍 Snake </h3>
+<h4 align="center">🌱 Grass & 🐍 Snake </h4>
 
 <!-- 2) 잔디 + 백준 티어 -->
 <div align="center" style="display:flex;justify-content:center;gap:10px;flex-wrap:wrap;margin-bottom:12px;">
