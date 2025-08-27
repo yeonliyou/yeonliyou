@@ -49,6 +49,8 @@
   </a>
 </div>
 
+<h3 align="center">🌱 Grass & 🐍 Snake </h3>
+
 <!-- 2) 잔디 + 백준 티어 -->
 <div align="center" style="display:flex;justify-content:center;gap:10px;flex-wrap:wrap;margin-bottom:12px;">
   <img src="https://raw.githubusercontent.com/yeonliyou/yeonliyou/master/dist/metrics-6m.svg" alt="metrics" width="420" />
