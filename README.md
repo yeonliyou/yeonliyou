@@ -30,7 +30,8 @@
 </p>
 
 <!-- Highlights 섹션 -->
-<h3 align="center">✨ Experience</h3>
+### ✨ Experience
+
 | 기간 | 내용 |
 | ---- | ---------------------------------------------------- |
 |      | Food Start-up Marketing Intern |
