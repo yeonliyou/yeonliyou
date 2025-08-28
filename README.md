@@ -30,14 +30,19 @@
 </p>
 
 <!-- Highlights 섹션 -->
+<div align="center">
+
 ### ✨ Experience
 
-| 기간 | 내용 |
+| Period | Description |
 | ---- | ---------------------------------------------------- |
-|      | Food Start-up Marketing Intern |
-|      | [OUTTA](https://outta.ai/ko) Mentor & Executive Member |
-|      | Undergraduate Researcher at Knowledge Graph ML/DL Lab |
-|      | SSAFY 14th (Samsung Software Academy For Youth) |
+| 2023.06 - 2024.01 | Food Start-up Marketing Intern |
+| 2023.08 - Present | [OUTTA](https://outta.ai/ko) Mentor & Executive Member |
+| 2024.07 - 2025.07 | Undergraduate Researcher at Knowledge Graph ML/DL Lab |
+| 2025.07 - Present | SSAFY 14th |
+
+</div>
+
 
 <p align="center">
   
