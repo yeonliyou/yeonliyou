@@ -29,6 +29,19 @@
   <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"/>
 </p>
 
+<!-- Highlights 섹션 -->
+<h3 align="center">✨ Experience</h3>
+| 기간 | 내용 |
+| ---- | ---------------------------------------------------- |
+|      | Food Start-up Marketing Intern |
+|      | [OUTTA](https://outta.ai/ko) Mentor & Executive Member |
+|      | Undergraduate Researcher at Knowledge Graph ML/DL Lab |
+|      | SSAFY 14th (Samsung Software Academy For Youth) |
+
+<p align="center">
+  
+</p>
+
 <h3 align="center">🕹️ Github card</h3>
 
 <!-- 1) Top Langs + GitHub Stats -->
