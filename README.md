@@ -47,6 +47,18 @@
   
 </p>
 
+<h3 align="center">🐰 My animals</h3>
+
+<div align="center" style="display:flex;justify-content:center;gap:10px;flex-wrap:wrap;margin-bottom:12px;">
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=yeonliyou&utm_content=farm">
+    <img
+      src="https://render.gitanimals.org/farms/yeonliyou"
+      width="600"
+      height="300"
+    />
+  </a>
+</div>
+
 <h3 align="center">🕹️ Github card</h3>
 
 <!-- 1) Top Langs + GitHub Stats -->
@@ -63,18 +75,6 @@
       src="https://github-readme-stats.vercel.app/api?username=yeonliyou&show_icons=true&theme=omni" 
       alt="GitHub Stats"
       style="height:200px;border:2px solid white;border-radius:10px;"
-    />
-  </a>
-</div>
-
-<h3 align="center">🐰 My animals</h3>
-
-<div align="center" style="display:flex;justify-content:center;gap:10px;flex-wrap:wrap;margin-bottom:12px;">
-  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=yeonliyou&utm_content=farm">
-    <img
-      src="https://render.gitanimals.org/farms/yeonliyou"
-      width="600"
-      height="300"
     />
   </a>
 </div>
