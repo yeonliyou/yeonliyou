@@ -65,6 +65,11 @@
       style="height:200px;border:2px solid white;border-radius:10px;"
     />
   </a>
+</div>
+
+<h3 align="center">🐰 My animals</h3>
+
+<div align="center" style="display:flex;justify-content:center;gap:10px;flex-wrap:wrap;margin-bottom:12px;">
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=yeonliyou&utm_content=farm">
     <img
       src="https://render.gitanimals.org/farms/yeonliyou"
