@@ -32,7 +32,8 @@
 | 2023.06 - 2024.01 | Food Start-up Marketing Intern |
 | 2023.08 - Present | [OUTTA](https://outta.ai/ko) Mentor & Executive Member |
 | 2024.07 - 2025.07 | Undergraduate Researcher at Knowledge Graph ML/DL Lab |
-| 2025.07 - Present | SSAFY 14th |
+| 2025.07 - 2025.12 | SSAFY 14th |
+
 
 </div>
 
