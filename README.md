@@ -1,5 +1,9 @@
 <div align="center">
 
+Hi !
+
+---
+
 📄 CV
 
 <a href="https://yeonliyou.github.io/portfolio/">
