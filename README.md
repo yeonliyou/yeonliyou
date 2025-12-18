@@ -2,7 +2,7 @@
 
 Hi 👋  
 
-<br><br>
+<br>
 
 <a href="https://yeonliyou.github.io/portfolio/" target="_blank">
   <strong>CV & Portfolio</strong>
