@@ -7,40 +7,6 @@
 <h3 align="center">👋It's me !</h1>
 
 
-<!-- Skills 섹션 -->
-<h3 align="center">✨ Skills</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-F9A8D4?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/R-EC4899?style=for-the-badge&logo=r&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-FBCFE8?style=for-the-badge&logo=mysql&logoColor=black"/> <!-- 아이콘 강조 -->
-  <img src="https://img.shields.io/badge/Neo4j-DB2777?style=for-the-badge&logo=neo4j&logoColor=white"/>
-</p>
-
-<!-- Using 섹션 -->
-<h3 align="center">💻 Using</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"/>
-</p>
-
-<!-- Highlights 섹션 -->
-<div align="center">
-
-### ✨ Experience
-
-| Period | Description |
-| ---- | ---------------------------------------------------- |
-| 2023.06 - 2024.01 | Food Start-up Marketing Intern |
-| 2023.08 - Present | [OUTTA](https://outta.ai/ko) Mentor & Executive Member |
-| 2024.07 - 2025.07 | Undergraduate Researcher at Knowledge Graph ML/DL Lab |
-| 2025.07 - 2025.12 | SSAFY 14th |
-
-
-</div>
-
-<p align="center">
-  
-</p>
-
 <h3 align="center">🐰 My animals</h3>
 
 <div align="center" style="display:flex;justify-content:center;gap:10px;flex-wrap:wrap;margin-bottom:12px;">
@@ -52,22 +18,6 @@
     />
   </a>
 </div>
-
-<h3 align="center">🕹️ Github card</h3>
-
-<!-- 1) Top Langs + GitHub Stats -->
-<div align="center" style="display:flex;justify-content:center;gap:10px;flex-wrap:wrap;margin-bottom:12px;">
-  <a href="https://github.com/yeonliyou/github-readme-stats">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeonliyou&layout=donut&theme=omni" 
-      alt="Top Langs"
-      style="height:200px;border:2px solid white;border-radius:10px;"
-    />
-  </a>
-  <a href="https://github.com/yeonliyou/github-readme-stats">
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=yeonliyou&show_icons=true&theme=omni" 
-      alt="GitHub Stats"
       style="height:200px;border:2px solid white;border-radius:10px;"
     />
   </a>
