@@ -1,13 +1,9 @@
 name: Metrics
 
-concurrency:
-  group: metrics
-  cancel-in-progress: true
-
 on:
-  schedule:
-    - cron: "0 0 * * *"   # 매일 00:00 UTC (한국시간 09:00)
   workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
 
 permissions:
   contents: write
@@ -16,17 +12,13 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate metrics
+      - name: Generate 3D contributions only
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: yeonliyou
-          template: classic
-          base: header, activity, community, repositories, metadata
           filename: dist/metrics-6m.svg
-
-          plugin_calendar: yes
-          plugin_calendar_limit: 6
-          plugin_calendar_days: 180
+          base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
+          config_output: svg
