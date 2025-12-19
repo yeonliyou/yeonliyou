@@ -16,7 +16,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          user: yeonliyou<img src="https://raw.githubusercontent.com/yeonliyou/yeonliyou/master/dist/metrics-6m.svg?v=20251219" width="1000">
+          user: yeonliyou
           template: classic
           base: header, activity, community, repositories, metadata
           filename: dist/metrics-6m.svg
