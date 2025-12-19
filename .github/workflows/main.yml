@@ -18,7 +18,12 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: yeonliyou
           filename: dist/metrics-6m.svg
+        
           base: ""
+        
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
+        
+          plugins_errors_fatal: false
           config_output: svg
+
